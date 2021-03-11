@@ -11,7 +11,7 @@ const LeagueDetails = () => {
         .then(res => res.json())
         .then(data => setLeague(data.leagues))
         
-    },[])
+    },[leagueId])
     return (
         <div>
            
