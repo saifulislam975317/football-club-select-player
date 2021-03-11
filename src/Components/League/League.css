@@ -1,0 +1,20 @@
+.home-page-container {
+    width: 380px;
+    box-shadow: 10px 10px 10px gray;
+    margin: 20px;
+    padding: 20px;
+    background-color:lightskyblue;
+    color: black;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+}
+
+button.button {
+    background-color: goldenrod;
+    padding: 5px;
+    width: 150px;
+    border-radius: 8px;
+    height: 34px;
+    cursor: pointer;
+}

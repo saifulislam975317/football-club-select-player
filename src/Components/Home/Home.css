@@ -1,0 +1,21 @@
+.image-div img {
+    width: 100%;
+    height: 203px;
+}
+
+.image-div img {
+    width: 800px;
+    height: 350px;
+}
+
+.image-div h1 {
+    position: relative;
+    bottom: 200px;
+    color: greenyellow;
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.image-div{
+    text-align: center;
+}

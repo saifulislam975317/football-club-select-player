@@ -1,0 +1,52 @@
+.league-container {
+    display: flex;
+    justify-content: center;
+    background-color: cadetblue;
+}
+
+.league-image img {
+    width: 400px;
+}
+
+.league-details {
+    margin: 20px;
+    padding: 20px;
+}
+
+.league-image {
+    margin: 20px;
+    padding: 20px;
+}
+
+.details-container {
+    background-color: black;
+    color: white;
+}
+
+
+.league-description {
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+}
+
+.details-banner img {
+   
+    background-image: url(https://images.immediate.co.uk/production/volatile/sites/3/2019/04/GettyImages-950361606-fe67862.jpg?quality=90&lb=620,413&background=white);
+    background-size: cover;
+    
+}
+
+.details-banner {
+    text-align: center;
+}
+
+.details-banner img {
+    width: 70%;
+}
+.social-icons a {font-size: 60px;color: aliceblue;margin: 5px;padding: 5px;}
+
+.social-icons {
+    text-align: center;
+}
+
