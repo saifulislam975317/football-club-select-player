@@ -1,8 +1,4 @@
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { fab } from '@fortawesome/free-brands-svg-icons'
-import { library } from '@fortawesome/fontawesome-svg-core'
-import { faCheckSquare, facoffee } from '@fortawesome/free-solid-svg-icons'
 import './ClubDetails.css'
 import male from '../../images/male.png'
 import female from '../../images/female.png'
